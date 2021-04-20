@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+border-bottom: 1px dashed #9e9e9e;
+}
+.header-content{
+
+width: 90%;
+
+/* background: red; */
+
+margin-left: 5%;
+
+/* padding: 10px; */
+
+padding-top: 8px;
+
+padding-bottom: 8px;
+
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+width: 50%;
+}
+nav{
+    width: 30%;
+    float: right;
+}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+}
+nav ul li{
+
+float: left;
+font-size: 20px;
+
+margin-right: 15px;
+
+text-transform: capitalize;
+} 
+.content{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+}
+.heading h1{
+    
+text-align: center;
+    
+color: #4094DD;
+    
+font-size: 25px;
+}
+.heading p{
+    
+text-align: center;
+    
+font-size: 16px;
+    
+color: #000000c7;
+}
+.heading img{
+    
+width: 80%;
+    
+margin-top: 30px;
+    
+}
+.heading h1:first-child{
+    color: black;
+    margin-top: 50px;
+}
+.main-content{
+
+overflow: hidden;
+}
+.left-content{
+
+width: 45%;
+
+float: left;
+
+/* text-align: -webkit-right; */
+}
+.left-content h1{
+    
+color: red;
+}
+.left-content p{
+    
+text-align: right;
+    
+margin: 5px;
+}
+.right-content{
+
+width: 45%;
+
+float: right;
+}
+.right-content h1{
+
+color: #142446;
+
+font-size: 45px;
+
+text-align: left;
+}
+.feature{
+
+width: 90%;
+
+margin: auto;
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+
+overflow: hidden;
+}
+.feature_one{
+
+width: 28%;
+
+float: left;
+
+text-align: center;
+
+background: #FEEBEF;
+
+padding: 35px 20px;
+
+min-height: 350px;
+}
+.feature_one h3{
+
+text-align: left;
+
+color: #05133A;
+}
+.feature_one p{
+
+text-align: left;
+
+color: #05133A;
+}
+.feature_one img{width: 97%;}
+.feature_two{
+
+width: 28%;
+
+float: left;
+
+margin-left: 3%;
+
+padding: 50px 20px;
+
+background: #EAF9F4;
+}
+.feature_two h3{
+    text-align: left;
+
+    color: #05133A;
+}
+.feature_two p{
+
+    text-align: left;
+
+    color: #05133A;
+}
+.feature_two img{width: 92%;}
+.feature_three{
+
+width: 28%;
+
+float: right;
+
+padding: 0px 20px;
+
+background: #FFF8E8;
+}
+.feature_three h3{
+    text-align: left;
+
+    color: #05133A;
+}
+.feature_three p{
+    text-align: left;
+
+    color: #05133A;
+}
+.feature_three img{
+    width: 100%;
+}
+footer{
+
+background: #008BFF;
+
+text-align: center;
+
+padding: 25px 0px;
+}
+footer p{
+
+display: inline;
+
+color: #d4d0d0;
+}
+footer  h5{
+    
+color: white;
+    
+font-size: 20px;
+    
+letter-spacing: 3px;
+    
+display: inline;
+    
+margin: 0px 15px;
+}
